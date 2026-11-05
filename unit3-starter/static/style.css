@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+  max-width: 640px;
+  margin: 40px auto;
+  padding: 0 16px;
+  color: #222;
+}
+header { border-bottom: 2px solid #2b6cb0; margin-bottom: 24px; }
+h1 { color: #2b6cb0; }
+footer { margin-top: 40px; color: #666; font-size: 0.9em; }
